@@ -1,1 +1,1 @@
-in part 1 i learned about basic git commands 
+changing log file from add-resources 
