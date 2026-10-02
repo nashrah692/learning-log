@@ -1,1 +1,1 @@
-changing log file from master 
+fixing the merge conflict from master 
