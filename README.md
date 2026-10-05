@@ -2,7 +2,7 @@
 
 # 📒 learning-log
 
-**My first real Git project: a tiny log of four text files, built to practice every basic Git skill in one go.**
+**My first only Git project: a tiny log of four text files, built to practice every basic Git skill in one go.**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
